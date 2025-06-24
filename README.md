@@ -162,3 +162,51 @@ In this step, you’ll solder the **angled PH male connector** and prepare the b
 
 You're now finished with all soldering! Next step: **assemble the keyboard case and install mechanical switches**
 
+
+## Case Assembly
+
+With all soldering done, it’s time to assemble the keyboard into its case.
+
+#### 1. Glue the MCU cover
+
+* Take the **MCU cover** piece and glue it to the **top part of the case**
+
+  * Align it carefully so it sits flush and doesn't interfere with the microcontroller or ports
+  * Use a small amount of superglue or plastic adhesive — avoid excess to prevent seepage into switch areas
+![telegram-cloud-document-2-5393216297880284581](https://github.com/user-attachments/assets/35a80ca8-6440-4f07-ad4f-1bd32abaf592)
+
+#### 2. Insert threaded inserts
+
+* Using the **tip of a soldering iron**, press the **brass threaded inserts** into their slots in the top case.
+
+  * Heat the insert gently and push it into the plastic until it’s flush
+  * Let it cool fully before handling
+![telegram-cloud-document-2-5393216297880284582](https://github.com/user-attachments/assets/8abfa584-e52f-49ad-ac79-534cf17499af)
+![telegram-cloud-document-2-5393216297880284583](https://github.com/user-attachments/assets/de0f1837-75f1-4e23-ac06-7a97b8c528e4)
+
+#### 3. Place the PCB
+
+* Gently insert the fully assembled **PCB** into the top case. Make sure the USB port and power switch are accessible through the case openings
+![telegram-cloud-document-2-5393216297880284590](https://github.com/user-attachments/assets/77957a36-b7c9-4657-9b27-d4122679f221)
+![telegram-cloud-document-2-5393216297880284591](https://github.com/user-attachments/assets/ceb1e255-7a7b-432d-a3c9-297edc46a3b5)
+
+#### 4. Install mechanical switches
+
+* One by one, insert the **mechanical switches** into the top case.
+
+  * The switches will also help hold the PCB in place by snapping into the hot-swap sockets
+  * Press each switch down firmly until it clicks into both the plate and socket
+
+#### 5. Attach the Bottom Case
+
+* Place the **bottom part of the case** over the assembly.
+* Align the screw holes with the threaded inserts.
+* Insert and tighten screws gently — don’t overtighten to avoid stripping the inserts or cracking the plastic.
+Sure! Here’s **step 6** added in the same style:
+
+#### 6. Insert keycaps onto switches
+
+* Press each **keycap** firmly onto its corresponding **mechanical switch**
+
+Your keyboard is now **fully assembled**!
+
